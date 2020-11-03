@@ -444,3 +444,22 @@ footer {
 }
 
 }
+
+@media (max-width: 540px){
+  .fadeIn .img-responsive{
+    height: 220px;
+  }
+  #team h3{
+    font-size: 18px;
+  }
+  .contact-info-box h3 {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 450px)
+{
+#contact h3 {
+    font-size: 11px;
+}
+}
